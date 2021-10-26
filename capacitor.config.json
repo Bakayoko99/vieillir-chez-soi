@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Vieillir chez soi",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
